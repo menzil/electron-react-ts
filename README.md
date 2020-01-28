@@ -1,6 +1,8 @@
 
 ## Minimal Electron, React, Typescript and Webpack boilerplate
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/warwicklol14/electron-react-ts.svg)](https://greenkeeper.io/)
+
 Minimal Electron, React, Typescript and Webpack boilerplate .
 
 ### Table of contents
